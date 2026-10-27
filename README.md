@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fresh KDS is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://fresh.technology/
+Fresh KDS provides a cloud‑based kitchen display system (KDS) that helps restaurants manage orders, stations, and staff across multiple locations. The platform offers real‑time order visibility, performance analytics, and customizable workflows for cafes, fast‑casual, casual dining, food trucks, and breweries. Trusted by over 10,000 establishments, Fresh KDS aims to improve service speed, reduce errors, and streamline kitchen operations through a tablet‑friendly interface and integrations with POS systems.
+
+**Areas:** Kitchen Display System · Restaurants · POS Integration · Enterprise · Tablet-based · Food Service
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fresh.technology/)
+- [Documentation](https://www.fresh.technology/kds/developer-guide)
+- [Getting started](https://www.fresh.technology/kds/book-a-demo)
+- [Pricing](https://www.fresh.technology/kds/pricing)
+- [Sign up](https://www.fresh.technology/kds/pos/register-pos)
+- [Support](https://help.freshkds.com/en/)
+- [Blog](https://www.fresh.technology/kds/blogs)
+- [Terms of service](https://www.fresh.technology/legal/terms-of-service)
+- [Privacy policy](https://www.fresh.technology/legal/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/fresh-kds/](https://apis.io/providers/fresh-kds/).
